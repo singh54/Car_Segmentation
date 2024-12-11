@@ -16,10 +16,8 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Number of features in the dataset are high and need is to reduce number of dimensions.
+- Multicollinearity exixst between the existing features in the Dataset.
 
 
 ## Technologies Used
